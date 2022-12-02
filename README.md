@@ -1,2 +1,7 @@
-# Portfolio
-Projetos de protfolio
+# Portfólio
+
+Nesta pasta temos uma coleção de projeto que eu considero relevante como profissional de Data Science, que serve para demostrar minhas habilidades e o estilo de trabalho de desenvolvimento. 
+
+
+
+[](img/portfolio.jpg)
